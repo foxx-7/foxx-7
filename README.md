@@ -26,6 +26,6 @@ Backend engineer building reliable and resilient backend systems with spring boo
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KevinAmaefule-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KevinAmaefule)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KevinAmaefule-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KevinUnachukwu)
 [![X](https://img.shields.io/badge/X-@kevincoretto-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kevincoretto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-foxx--7-FF6B35?style=flat-square&logo=render&logoColor=white)](https://foxx-7.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-foxx--7-FF6B35?style=flat-square&logo=render&logoColor=white)](https://kevin-unachukwu.onrender.com)
